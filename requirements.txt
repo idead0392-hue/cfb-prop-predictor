@@ -1,8 +1,0 @@
-streamlit
-pydantic
-playwright
-python-dotenv
-aiohttp
-pandas
-numpy
-pytest
