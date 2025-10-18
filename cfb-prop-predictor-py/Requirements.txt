@@ -1,0 +1,16 @@
+Core application libraries
+
+streamlit
+pydantic
+playwright
+python-dotenv
+aiohttp
+
+Optional for analysis/backtesting
+
+pandas
+numpy
+
+Optional for testing
+
+pytest
